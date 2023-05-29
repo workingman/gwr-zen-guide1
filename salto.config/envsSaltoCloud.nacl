@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "31410f93-fc16-471b-8485-f8bb19a5ebf2"
+      folderName = "gwr-s-zen-only-guide"
+    },
+  ]
+}
