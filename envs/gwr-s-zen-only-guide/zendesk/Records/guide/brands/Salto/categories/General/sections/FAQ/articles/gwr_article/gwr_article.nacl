@@ -1,5 +1,5 @@
 zendesk.article GWR_How_do_I_customize_my_Help_Center__FAQ_General_AnotherSaltoBrand@ssssssauuu {
-  author_id = "neta.marcus+zendesk@salto.io"
+  author_id = "geoffrey.routledge+zendesk@salto.io"
   comments_disabled = false
   draft = false
   promoted = false
@@ -9,7 +9,7 @@ zendesk.article GWR_How_do_I_customize_my_Help_Center__FAQ_General_AnotherSaltoB
   outdated = false
   permission_group_id = zendesk.permission_group.instance.Admins
   translations = [
-    zendesk.article_translation.instance.How_do_I_customize_my_Help_Center__FAQ_General_AnotherSaltoBrand_ssssssauuu__AnotherSaltoBrand_en_us_ub@uuuuuuuuuumuuuum,
+    zendesk.article_translation.instance.GWR_How_do_I_customize_my_Help_Center__FAQ_General_AnotherSaltoBrand_ssssssauuu__AnotherSaltoBrand_en_us_ub@uuuuuuuuuumuuuum,
   ]
   brand = zendesk.brand.instance.AnotherSaltoBrand
   user_segment_id = zendesk.user_segment.instance.Everyone
