@@ -1,0 +1,9 @@
+zendesk.locale sw {
+  locale = "sw"
+  name = "Swahili"
+  native_name = "Kiswahili"
+  presentation_name = "Swahili - Kiswahili"
+  rtl = false
+  default = false
+  _alias = "Swahili - Kiswahili"
+}

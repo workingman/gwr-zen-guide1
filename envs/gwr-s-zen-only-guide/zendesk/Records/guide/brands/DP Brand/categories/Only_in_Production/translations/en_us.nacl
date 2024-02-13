@@ -1,0 +1,12 @@
+zendesk.category_translation Only_in_Production_DP_Brand_s_ssuum__DP_Brand_s_en_us_umub@uuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.DP_Brand_s_en_us@umub
+  title = "Only in Production"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.DP_Brand@s
+  _parent = [
+    zendesk.category.instance.Only_in_Production_DP_Brand_s@ssuum,
+  ]
+  _alias = "en-us - Only in Production"
+}

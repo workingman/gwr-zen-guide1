@@ -1,0 +1,6 @@
+zendesk.guide_language_settings Spacebear_Test_s_en_us@umub {
+  locale = "en-us"
+  name = "Spacebear Test"
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _alias = "Spacebear Test en-us language settings"
+}

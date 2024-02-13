@@ -1,0 +1,18 @@
+zendesk.ticket_field__custom_field_options agent_dropdown_643_for_agent_multiselect_ssssu__v1@uuuuumuu {
+  
+  raw_name = "v11"
+  value = "v1"
+  _parent = [
+    zendesk.ticket_field.instance.agent_dropdown_643_for_agent_multiselect@ssssu,
+  ]
+  _alias = "v11"
+}
+zendesk.ticket_field__custom_field_options tagger11_tagger__v11 {
+  
+  raw_name = "v11"
+  value = "v11"
+  _parent = [
+    zendesk.ticket_field.instance.tagger11_tagger,
+  ]
+  _alias = "v11"
+}

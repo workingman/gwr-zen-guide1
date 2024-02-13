@@ -1,0 +1,4 @@
+zendesk.channel Apple_Business_Chat@s {
+  name = "Apple Business Chat"
+  _alias = "Apple Business Chat"
+}

@@ -1,0 +1,13 @@
+zendesk.section_translation Move_This_Category_DP_Migration_Spacebear_Test_s_suum_ssuuuuum__Spacebear_Test_s_en_us_umub@uuuuuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.Spacebear_Test_s_en_us@umub
+  title = "Move This Category"
+  body = "For the MTC category"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _parent = [
+    zendesk.section.instance.Move_This_Category_DP_Migration_Spacebear_Test_s_suum@ssuuuuum,
+  ]
+  _alias = "en-us - Move This Category"
+}

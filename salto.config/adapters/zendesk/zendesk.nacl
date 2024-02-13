@@ -1,0 +1,32 @@
+zendesk {
+  apiDefinitions = {
+    types = {
+      article_attachment = {
+        transformation = {
+          idFields = [ "file_name" ]
+        
+        }
+      }
+   }
+  }
+  fetch = {
+    include = [
+      {
+        type = ".*"
+      },
+    ]
+    exclude = [
+      {
+        type = "organization"
+      },
+      {
+        type = "oauth_global_client"
+      },
+    ]
+    guide = {
+      brands = [
+        ".*",
+      ]
+    }
+  }
+}

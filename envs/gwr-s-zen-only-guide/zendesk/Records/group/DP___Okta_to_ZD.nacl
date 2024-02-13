@@ -1,0 +1,8 @@
+zendesk.group DP___Okta_to_ZD@sbsss {
+  is_public = true
+  name = "DP - Okta to ZD"
+  description = ""
+  default = false
+  deleted = false
+  _alias = "DP - Okta to ZD"
+}

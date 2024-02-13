@@ -1,0 +1,7 @@
+zendesk.article_order FAQ1_General_Salto {
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.FAQ1_General_Salto,
+  ]
+  _alias = "FAQ1 Article Order"
+}

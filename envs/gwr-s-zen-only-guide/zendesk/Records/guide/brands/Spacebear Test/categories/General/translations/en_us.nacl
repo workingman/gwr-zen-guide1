@@ -1,0 +1,12 @@
+zendesk.category_translation General_Spacebear_Test_s_uum__Spacebear_Test_s_en_us_umub@uuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.Spacebear_Test_s_en_us@umub
+  title = "General"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _parent = [
+    zendesk.category.instance.General_Spacebear_Test_s@uum,
+  ]
+  _alias = "en-us - General"
+}

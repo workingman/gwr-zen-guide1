@@ -1,0 +1,11 @@
+zendesk.support_address Spacebear_Test_support_Spacebear_Test_s_subdomain_zendesk_com@sumumvvv {
+  brand_id = zendesk.brand.instance.Spacebear_Test@s
+  default = true
+  name = "Spacebear Test"
+  email = "support@${ zendesk.brand.instance.Spacebear_Test@s.subdomain }.zendesk.com"
+  forwarding_status = "verified"
+  spf_status = "verified"
+  cname_status = "verified"
+  domain_verification_status = "verified"
+  _alias = "Spacebear Test"
+}
