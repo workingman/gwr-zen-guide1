@@ -1,0 +1,11 @@
+zendesk.category_order Spacebear_Test_s@um {
+  categories = [
+    zendesk.category.instance.DP_Migration_Spacebear_Test_s@suum,
+    zendesk.category.instance.General_Spacebear_Test_s@uum,
+  ]
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _parent = [
+    zendesk.brand.instance.Spacebear_Test@s,
+  ]
+  _alias = "Spacebear Test Category Order"
+}

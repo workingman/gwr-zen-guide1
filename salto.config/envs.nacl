@@ -1,4 +1,10 @@
 envs {
   envs = [
+    {
+      name = "gwr-s-zen-only-guide"
+      accountToServiceName = {
+        zendesk = "zendesk"
+      }
+    },
   ]
 }

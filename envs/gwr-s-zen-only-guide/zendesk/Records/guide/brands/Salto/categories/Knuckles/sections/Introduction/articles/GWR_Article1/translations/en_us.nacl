@@ -1,0 +1,16 @@
+zendesk.article_translation GWR_Article1_Introduction_Knuckles_Salto_suuu__Salto_en_us_ub@uuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "GWR Article1"
+  body = '''
+<p>Here's what an attachment looks like:</p>
+<p><img src="${ zendesk.brand.instance.Salto }/hc/article_attachments/${ zendesk.article_attachment.instance.GWR_Article1_9905459060247_su__Image_jpeg@uumuuv }" alt="Image.jpeg"></p>
+'''
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.GWR_Article1_Introduction_Knuckles_Salto@suuu,
+  ]
+  _alias = "en-us - GWR Article1"
+}

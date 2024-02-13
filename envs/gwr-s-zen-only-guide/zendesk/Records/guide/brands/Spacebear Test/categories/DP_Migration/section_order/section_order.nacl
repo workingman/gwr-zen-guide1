@@ -1,0 +1,12 @@
+zendesk.section_order DP_Migration_Spacebear_Test_s_suum@uuuum {
+  sections = [
+    zendesk.section.instance.Move_This_Category_DP_Migration_Spacebear_Test_s_suum@ssuuuuum,
+    zendesk.section.instance.Migrations_DP_Migration_Spacebear_Test_s_suum@uuuuum,
+    zendesk.section.instance.General_DP_Migration_Spacebear_Test_s_suum@uuuuum,
+  ]
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _parent = [
+    zendesk.category.instance.DP_Migration_Spacebear_Test_s@suum,
+  ]
+  _alias = "DP Migration Section Order"
+}

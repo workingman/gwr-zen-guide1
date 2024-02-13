@@ -1,0 +1,13 @@
+zendesk.section General_DP_Migration_Spacebear_Test_s_suum@uuuuum {
+  category_id = zendesk.category.instance.DP_Migration_Spacebear_Test_s@suum
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.Spacebear_Test_s_en_us@umub
+  source_locale = zendesk.guide_language_settings.instance.Spacebear_Test_s_en_us@umub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.General_DP_Migration_Spacebear_Test_s_suum_uuuuum__Spacebear_Test_s_en_us_umub@uuuuuumuuuuuum,
+  ]
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _alias = "General"
+}

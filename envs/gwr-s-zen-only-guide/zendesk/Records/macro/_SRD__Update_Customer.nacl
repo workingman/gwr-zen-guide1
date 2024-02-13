@@ -1,0 +1,18 @@
+zendesk.macro _SRD__Update_Customer@hiss {
+  title = "[SRD] Update Customer"
+  active = true
+  default = false
+  description = "test macro for example purposes"
+  actions = [
+    {
+      field = "status"
+      value = "pending"
+    },
+    {
+      field = "comment_value_html"
+      value = "<p>hello</p>"
+    },
+  ]
+  raw_title = "[SRD] Update Customer"
+  _alias = "[SRD] Update Customer"
+}

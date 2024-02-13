@@ -1,0 +1,8 @@
+zendesk.group Support444 {
+  is_public = true
+  name = "Support444"
+  description = "test"
+  default = false
+  deleted = false
+  _alias = "Support444"
+}

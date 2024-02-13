@@ -1,0 +1,9 @@
+zendesk.organization_field org_field306 {
+  type = "text"
+  key = "org_field306"
+  raw_title = "org_field306"
+  raw_description = ""
+  active = true
+  system = false
+  _alias = "org_field306"
+}

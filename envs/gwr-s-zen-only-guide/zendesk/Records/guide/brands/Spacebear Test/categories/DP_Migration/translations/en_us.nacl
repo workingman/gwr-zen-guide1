@@ -1,0 +1,13 @@
+zendesk.category_translation DP_Migration_Spacebear_Test_s_suum__Spacebear_Test_s_en_us_umub@uuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.Spacebear_Test_s_en_us@umub
+  title = "DP Migration"
+  body = "This is what use to be the DP Brand"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _parent = [
+    zendesk.category.instance.DP_Migration_Spacebear_Test_s@suum,
+  ]
+  _alias = "en-us - DP Migration"
+}

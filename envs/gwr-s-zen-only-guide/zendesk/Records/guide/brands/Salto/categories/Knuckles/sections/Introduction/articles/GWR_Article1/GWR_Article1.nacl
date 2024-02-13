@@ -1,0 +1,21 @@
+zendesk.article GWR_Article1_Introduction_Knuckles_Salto@suuu {
+  author_id = "geoffrey.routledge@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.Introduction_Knuckles_Salto
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.GWR_Article1_Introduction_Knuckles_Salto_suuu__Salto_en_us_ub@uuuumuuuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  attachments = [
+    zendesk.article_attachment.instance.GWR_Article1_9905459060247_su__Image_jpeg@uumuuv,
+    zendesk.article_attachment.instance.GWR_Article1_9905459060247_su__Image_jpeg@uumuuv,
+  ]
+  _alias = "GWR Article1"
+}

@@ -1,0 +1,7 @@
+zendesk.section_order General_DP_Migration_Spacebear_Test_s_suum_uuuuum@uuuuuum {
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _parent = [
+    zendesk.section.instance.General_DP_Migration_Spacebear_Test_s_suum@uuuuum,
+  ]
+  _alias = "General Section Order"
+}

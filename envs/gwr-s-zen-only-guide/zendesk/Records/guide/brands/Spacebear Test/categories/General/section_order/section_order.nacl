@@ -1,0 +1,11 @@
+zendesk.section_order General_Spacebear_Test_s_uum@uuum {
+  sections = [
+    zendesk.section.instance.Announcements_General_Spacebear_Test_s_uum@uuuum,
+    zendesk.section.instance.FAQ_General_Spacebear_Test_s_uum@uuuum,
+  ]
+  brand = zendesk.brand.instance.Spacebear_Test@s
+  _parent = [
+    zendesk.category.instance.General_Spacebear_Test_s@uum,
+  ]
+  _alias = "General Section Order"
+}
